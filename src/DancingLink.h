@@ -7,6 +7,8 @@
  * Created on Tue 18 Apr 2017 07:25:04 PM EDT.
  */
 
+#pragma once
+
 #include <iostream>
 #include <string>
 #include <memory>
